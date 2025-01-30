@@ -15,11 +15,11 @@ Future Plans
 Developed in Visual Studio Code
 
 requires python
-use pip to install requests and BeautifulSoup4
-pip install requests
-pip install BeautifulSoup4
+- use pip to install requests and BeautifulSoup4
+- pip install requests
+- pip install BeautifulSoup4
 
 running the program
-python ./scraper-python.py https://www.example.com
+- python ./scraper-python.py https://www.example.com 
 
 The program will guide you through looking at the data.
